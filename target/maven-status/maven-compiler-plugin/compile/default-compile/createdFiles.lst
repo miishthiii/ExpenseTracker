@@ -1,8 +1,0 @@
-com\example\HibernateUtil.class
-com\example\Expense.class
-com\example\UserDAO.class
-com\example\MultiUserExpenseTracker.class
-com\example\User.class
-com\example\Income.class
-com\example\IncomeDAO.class
-com\example\ExpenseDAO.class
