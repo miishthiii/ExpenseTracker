@@ -1,0 +1,27 @@
+# Maven target folder
+target/
+
+# IntelliJ IDEA / Eclipse / VSCode project files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Hibernate config with credentials (optional, if sensitive info exists)
+hibernate.cfg.xml
+
+# Build files
+*.class
