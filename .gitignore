@@ -1,5 +1,5 @@
 # Maven target folder
-target/
+/target/
 
 # IntelliJ IDEA / Eclipse / VSCode project files
 .idea/
